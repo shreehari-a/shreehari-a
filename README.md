@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 + With approximately 6 years of experience, I am a seasoned software engineer adept at tackling complex technical challenges.
 + I possess a strong command over multiple programming languages such as Python, JavaScript, and Golang, along with expertise in various web frameworks and technologies including Django, Flask, React, and NodeJS.
-+ My experience spans across diverse domains including market research insights, educational ERP systems, and infrastructure monitoring tools.
++ My experience spans across diverse domains including Market Research, Educational ERP systems etc.
 + I have demonstrated proficiency in improving system performance, designing scalable architectures, and implementing efficient CI/CD pipelines.
 + With a focus on mentorship and collaboration, I have led teams, conducted peer learning sessions, and contributed to establishing best engineering practices within organizations.
 + I hold a Bachelor of Engineering in Computer Science and have pursued certifications in Kubernetes and Python-based image processing and computer vision.
